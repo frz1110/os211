@@ -4,3 +4,10 @@
 ZCZC W00 15 L03 GitHub related
 ZCZC W00 75 L02 ZOOM related
 ZCZC W00 5 L01 Pop Quiz 5 SCELE
+ZCZC W01 100 L02 ZOOM related
+ZCZC W01 180 L11 Assignment #1:Install VBox,debian,guestName
+ZCZC W01 10 L12 Assignment #2:GSGS
+ZCZC W01 10 L13 Assignment #3:Try vi,login logout with ssh
+ZCZC W01 5 L14 Assignment #4:make .bash_aliases
+ZCZC W01 60 L15 Assignment #5:Setup git, try tunnel badak via kawung, etc
+ZCZC W01 5  L16 Assignment #6:update myLog.txt
