@@ -1,22 +1,15 @@
-/*
- Shamelessly stolen from "Here, There, and Everywhere",
- including but not limited to "bootstrap", "stack overflow", 
- "Mike Dane", "w3schools", et al.
- */
-
 .backclass {
-  background-image:url(/assets/images/default.png)
-}
+	  background-image:url(/assets/images/default.png)
+  }
 
 .plainclass {
   color:            white;
   background-color: #001030;
-}
-
+      }
 .plainclass1 {
-  color:            white;
-  background-color: rgb(80, 75, 75);
-}
+    color:            white;
+    background-color: rgb(80, 75, 75);
+    }
 
 .container {
   max-width:    70%;
@@ -27,11 +20,11 @@
 }
 
 .container a {
-  color: #6dc5e7;
+  color: #808080;
 }
 
 .container a:hover {
-  color: #6dc5e7;
+  color: #808080:
 }
 
 .row {
@@ -40,7 +33,7 @@
 .column {
   float:            left;
   display:          inline-block;
-  background:       #808080;
+  background:       #b37878;
   height:           130px;
   width:            100%;
   padding-top:      10px;
