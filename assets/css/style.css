@@ -8,7 +8,7 @@
       }
 .plainclass1 {
     color:            white;
-    background-color: rgb(80, 75, 75);
+    background-color: rgb(54, 52, 52);
     }
 
 .container {
@@ -33,7 +33,7 @@
 .column {
   float:            left;
   display:          inline-block;
-  background:       #b37878;
+  background:       #ca8686;
   height:           130px;
   width:            100%;
   padding-top:      10px;
