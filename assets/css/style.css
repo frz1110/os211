@@ -15,7 +15,7 @@
 
 .plainclass1 {
   color:            white;
-  background-color: black;
+  background-color: rgb(80, 75, 75);
 }
 
 .container {
@@ -27,11 +27,11 @@
 }
 
 .container a {
-  color: #a0a0a0;
+  color: #6dc5e7;
 }
 
 .container a:hover {
-  color: #f0f0f0;
+  color: #6dc5e7;
 }
 
 .row {
@@ -73,7 +73,7 @@
   font-size:        1.1em;
   font-weight:      bold;
 }
-}
+
 
 .youtube {
   float:            left;
