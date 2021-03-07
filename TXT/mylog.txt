@@ -11,3 +11,6 @@ ZCZC W01 10 L13 Assignment #3:Try vi,login logout with ssh
 ZCZC W01 5 L14 Assignment #4:make .bash_aliases
 ZCZC W01 60 L15 Assignment #5:Setup git, try tunnel badak via kawung, etc
 ZCZC W01 5  L16 Assignment #6:update myLog.txt
+ZCZC W01 120 L17 Assignment #7:Amati repo cbkadal, Copy html,css, navbar cbkadal to frz1110 and modify it
+ZCZC W01 90 L17 Assignment #7:Make Top 10 List URL 
+ZCZC W01 5  L18 Assignment #8:learn regex
