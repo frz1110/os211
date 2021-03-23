@@ -27,3 +27,13 @@ ZCZC W02 60 L02 ZOOM related
 ZCZC W02 60 L05 GSGS materi
 ZCZC W02 20 L05 GSGS Pop Quiz dan jawab Pop quiz
 ZCZC W02 45 L22 Youtube:study
+ZCZC W03 10 L11 Assignment #1:Read osc10
+ZCZC W03 15 L12 Assignment #2:Try Demo
+ZCZC W03 3 L13 Assignment #3:cek .bash_aliases
+ZCZC W03 5 L14 Assignment #4:Review github Page
+ZCZC W03 90 L15 Assignment #5:Top 10 list ang GSGS
+ZCZC W03 5  L16 Assignment #6:update log
+ZCZC W03 45 L17 Assignment #7:open W03.tar.bz2.asc to W03.tar.bz2, move W03-FUSE.txt to /W03, tarballad
+ZCZC W03 5 L18 Assignment #8:Update myScript.sh
+ZCZC W03 100 L02 ZOOM related
+ZCZC W02 10 L20 Assignment #10:Make SHA256SUM

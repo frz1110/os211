@@ -17,8 +17,11 @@ for II in W?? ; do
 done
 popd
 
-echo "mv -f $HOME/RESULT/myW*.tar.bz2.asc ."
-mv -f $HOME/RESULT/myW*.tar.bz2.asc .
+rm -f $HOME/RESULT/fakeDODOL
+for II in $HOME/RESULT/myW*.tar.bz2.asc $HOME/RESULT/fakeDODOL ; do
+   echo "Check and move $II..."
+   [ -f $II ] && mv -f $II .
+done
 
 echo "rm -f $SHA $SHA.asc"
 rm -f $SHA $SHA.asc
