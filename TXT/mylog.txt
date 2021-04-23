@@ -52,4 +52,12 @@ ZCZC W05 5 L12 Assignment #2:Review github Page
 ZCZC W05 90 L13 Assignment #3:Top 10 list and GSGS
 ZCZC W05 5  L15 Assignment #5:update log
 ZCZC W05 3 L16 Assignment #6:Sign shasum256
+ZCZC W06 100 L02 ZOOM related
+ZCZC W06 60 L14 Assignment #4
+ZCZC W06 10 L11 Assignment #1:Read osc10
+ZCZC W06 15 L05 GSGS for quiz week 06
+ZCZC W06 5 L12 Assignment #2:Review github Page
+ZCZC W06 90 L13 Assignment #3:Top 10 list and GSGS
+ZCZC W06 5  L15 Assignment #5:update log
+ZCZC W06 3 L16 Assignment #6:Sign shasum256
 
