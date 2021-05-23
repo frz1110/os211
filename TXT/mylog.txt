@@ -77,3 +77,12 @@ ZCZC W08 120 L12 Assignment #2:Top 10 list and GSGS
 ZCZC W08 2 L14 Assignment #4:Tarball myweek08
 ZCZC W08 5  L15 Assignment #5:update log
 ZCZC W08 3 L16 Assignment #6:Sign shasum256
+ZCZC W09 100 L02 ZOOM related
+ZCZC W09 300 L13 Assignment #3: LFS chapter 5,6,7
+ZCZC W09 5 L11 Assignment #1:Read osc10
+ZCZC W09 30 L05 quiz week 08
+ZCZC W09 5 L12 Assignment #2:Review github Page
+ZCZC W09 120 L13 Assignment #3:Top 10 list and GSGS
+ZCZC W09 2 L14 Assignment #4:Tarball myweek08
+ZCZC W09 5  L15 Assignment #5:update log
+ZCZC W09 3 L16 Assignment #6:Sign shasum256
